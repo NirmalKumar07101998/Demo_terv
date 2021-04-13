@@ -1,0 +1,31 @@
+.base-container {
+    font-display: flex;
+    align-content: start;
+    align-items: center;
+}
+
+    .header{
+    font-display: flex;
+    align-items: center;
+    }   
+    
+    .content {
+    font-display: flex;
+    align-items: center;
+    font-size:small;
+    }
+    
+    .form {
+    align-content: start;
+    align-items: center;
+    }
+    
+    .form-group mb-5{
+    align-content: start;
+    align-items: center;
+    }
+
+    .footer{
+    align-content: start;
+    align-items: center;
+    }
